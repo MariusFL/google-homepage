@@ -24,3 +24,10 @@ nav ul li {
 nav img {
     border-radius: 50%;
 }
+nav a {
+    text-decoration: none;
+    color: black;
+}
+nav a:hover {
+    text-decoration: underline;
+}
