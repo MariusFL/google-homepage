@@ -9,7 +9,7 @@ nav ul {
     list-style-type: none;
     margin: 0;
     padding: 5px;
-    width: 100vw;
+    width: 100%;
     height: 50px;
     display: flex;
     flex-direction: row;
@@ -38,11 +38,16 @@ main {
     align-items: center;
     align-content: center;
 }
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
 input#searchbox {
     width: 500px;
     height: 30px;
     margin: 20px;
-}
-input {
-    margin: auto;
 }
