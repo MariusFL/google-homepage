@@ -1,3 +1,4 @@
 Google homepage assignment
 
-This is the assignment from The Odin Project that wants to get the users familiar with centering items, looking things up with the inspect tool of Chrome and basic commands of Git.
+During this assignment where I had to create a copy of Google's homepage I got a lot more familiar with Flexbox and Git, centering elements and inline styling of items.
+Chrome's Dev tool was a huge help as well as other online-resources.
