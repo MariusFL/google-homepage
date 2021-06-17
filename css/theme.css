@@ -47,9 +47,17 @@ form {
     flex-wrap: wrap;
 }
 input#searchbox {
-    width: 500px;
-    height: 30px;
+    width: 600px;
+    height: 40px;
     margin: 20px;
+    border-radius: 20px;
+    border: 1px solid #d4d4d4;
+    background-image: url(/images/search-small.png);
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: 11px;
+    padding-left: 40px;
+}
 }
 form #button-pair input {
     width: 130px;
