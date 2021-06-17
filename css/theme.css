@@ -51,3 +51,14 @@ input#searchbox {
     height: 30px;
     margin: 20px;
 }
+form #button-pair input {
+    width: 130px;
+    height: 35px;
+    background-color: rgb(248, 249, 259);
+    border-radius: 4px;
+    border: 1px solid rgb(248, 249, 259);
+    font-size: 14px;
+}
+form #button-pair input:hover {
+    border: 1px solid #dadada;
+}
